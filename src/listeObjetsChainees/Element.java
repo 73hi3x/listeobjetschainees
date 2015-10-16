@@ -22,6 +22,10 @@ public class Element {
 	public void setNext(Element next) {
 		this.next = next;
 	}
+	/**
+	 * constructeur par default
+	 * 
+	 */
 
 	public Element() {
 		super();
